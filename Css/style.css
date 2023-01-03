@@ -5,6 +5,10 @@ body {
     box-sizing: border-box;
 }  
 
+h2 {text-align: center;margin-top: 100px;}
+
+.slide {text-align: center;}
+
 .item {
     height: 420px;
     width: 20%;
